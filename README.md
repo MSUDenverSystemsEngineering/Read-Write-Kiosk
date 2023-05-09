@@ -1,1 +1,1 @@
-PSAppDeployToolkit
+read-write
